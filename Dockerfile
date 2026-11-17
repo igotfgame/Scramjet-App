@@ -1,1 +1,1 @@
-FROM node colon 20 dash alpine ENV NODE_ENV equals production WORKDIR slash app
+FROM node colon 20-alpine ENVNODE_ENV=production WORKDIR / app
